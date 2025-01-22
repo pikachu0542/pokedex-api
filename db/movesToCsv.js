@@ -1,21 +1,39 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
+const scrapy = require('node-scrapy');
 
 const filepath = `/src/html-pages/moves.html`;
 
-const getAttributes = async () => {
-    const file = fs.readFileSync(`${__dirname}/${filepath}`, 'utf-8', (err, data) => {
-        console.log(err);
-        return err;
-    });
-    // const file = await fetch(filepath);
+const getAttributes = () => {
 
-    let movesCsv = 'id,name,type,effect,category,power,accuracy';
+    const url = 'https://pokemondb.net/move/all';
 
-    console.log(file);
+    let movesJSON = ``;
 
-    const temp = cheerio.fromURL(filepath);
-    console.log(temp);
+    const model = {
+        moves: [
+            '#moves tbody tr',
+            {
+                name: `td:nth-child(1) a`,
+                type: 'td:nth-child(2) a',
+                category: 'td:nth-child(3) img (title)',
+                effect: 'td:nth-child(7)',
+                power: 'td:nth-child(4)',
+                accuracy: 'td:nth-child(5)',
+                pp: 'td:nth-child(6)',
+            }]
+    };
+
+    fetch(url)
+        .then((res) => res.text())
+        .then((body) => {
+            let extracted = scrapy.extract(body, model);
+            movesJSON = extracted;
+            fs.writeFileSync(`./src/json/moves.json`, JSON.stringify(movesJSON), 'utf-8', (err) => {
+                console.log(`Error: ${err}`);
+                return err;
+            });
+        })
+        .catch(console.error);
 }
-
-getAttributes();
+// getAttributes();
