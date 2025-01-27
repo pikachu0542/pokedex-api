@@ -2,9 +2,7 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 const scrapy = require('node-scrapy');
 
-const filepath = `/src/html-pages/moves.html`;
-
-const getAttributes = () => {
+const getMoves = () => {
 
     const url = 'https://pokemondb.net/move/all';
 
@@ -36,4 +34,4 @@ const getAttributes = () => {
         })
         .catch(console.error);
 }
-// getAttributes();
+// getMoves();
