@@ -1,0 +1,935 @@
+name,type,category,effect,power,accuracy,pp
+10 000	000 Volt Thunderbolt,4,Special,Pikachu-exclusive Z-Move. High critical hit ratio.,195,,1
+Absorb,5,Special,User recovers half the HP inflicted on opponent.,20,100,25
+Accelerock,13,Physical,User attacks first.,40,100,20
+Acid,8,Special,May lower opponent's Special Defense.,40,100,30
+Acid Armor,8,Status,Sharply raises user's Defense.,,,20
+Acid Downpour,8,null,Poison type Z-Move.,,,1
+Acid Spray,8,Special,Sharply lowers opponent's Special Defense.,40,100,20
+Acrobatics,10,Physical,Stronger when the user does not have a held item.,55,100,15
+Acupressure,1,Status,Sharply raises a random stat.,,,30
+Aerial Ace,10,Physical,Ignores Accuracy and Evasiveness.,60,-1,20
+Aeroblast,10,Special,High critical hit ratio.,100,95,5
+After You,1,Status,Gives target priority in the next turn.,,,15
+Agility,11,Status,Sharply raises user's Speed.,,,30
+Air Cutter,10,Special,High critical hit ratio.,60,95,25
+Air Slash,10,Special,May cause flinching.,75,95,15
+All-Out Pummeling,7,null,Fighting type Z-Move.,,,1
+Alluring Voice,18,Special,,80,100,10
+Ally Switch,11,Status,User switches with opposite teammate.,,,15
+Amnesia,11,Status,Sharply raises user's Special Defense.,,,20
+Anchor Shot,17,Physical,The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.,80,100,20
+Ancient Power,13,Special,May raise all user's stats at once.,60,100,5
+Apple Acid,5,Special,Lowers target's Special Defense.,80,100,10
+Aqua Cutter,3,Physical,High critical hit ratio.,70,100,20
+Aqua Jet,3,Physical,User attacks first.,40,100,20
+Aqua Ring,3,Status,Restores a little HP each turn.,,,20
+Aqua Step,3,Physical,Raises user's Speed.,80,100,10
+Aqua Tail,3,Physical,,90,90,10
+Arm Thrust,7,Physical,Hits 2-5 times in one turn.,15,100,20
+Armor Cannon,2,Special,Lowers user's Defense and Special Defense.,120,100,5
+Aromatherapy,5,Status,Cures all status problems in your party.,,,5
+Aromatic Mist,18,Status,Raises Special Defense of an ally.,,,20
+Assist,1,Status,User performs a move known by its allies at random.,,,20
+Assurance,16,Physical,Power doubles if opponent already took damage in the same turn.,60,100,10
+Astonish,14,Physical,May cause flinching.,30,100,15
+Astral Barrage,14,Special,The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.,120,100,5
+Attack Order,12,Physical,High critical hit ratio.,90,100,15
+Attract,1,Status,If opponent is the opposite gender	 it's less likely to attack.,,100,15
+Aura Sphere,7,Special,Ignores Accuracy and Evasiveness.,80,-1,20
+Aura Wheel,4,Physical,Changes type based on Morpeko's Mode.,110,100,10
+Aurora Beam,6,Special,May lower opponent's Attack.,65,100,20
+Aurora Veil,6,Status,Halves damage from Physical and Special attacks for five turns.,,,20
+Autotomize,17,Status,Reduces weight and sharply raises Speed.,,,15
+Avalanche,6,Physical,Power doubles if user took damage first.,60,100,10
+Axe Kick,7,Physical,May confuse opponent. If it misses	 the user loses HP.,120,90,10
+Baby-Doll Eyes,18,Status,Always goes first. Lowers the target's attack.,,100,30
+Baddy Bad,16,Special,Reduces damage from Physical attacks.,90,100,15
+Baneful Bunker,8,Status,Protects the user and poisons opponent on contact.,,,10
+Barb Barrage,8,Physical,May poison opponent; inflicts double damage if the target is already poisoned.,60,100,10
+Barrage,1,Physical,Hits 2-5 times in one turn.,15,85,20
+Barrier,11,Status,Sharply raises user's Defense.,,,20
+Baton Pass,1,Status,User switches out and gives stat changes to the incoming Pokémon.,,,40
+Beak Blast,10,Physical,The user first heats up its beak	 and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.,100,100,15
+Beat Up,16,Physical,Each Pokémon in user's party attacks.,,100,10
+Behemoth Bash,17,Physical,Damage doubles if target is Dynamaxed.,100,100,5
+Behemoth Blade,17,Physical,Damage doubles if target is Dynamaxed.,100,100,5
+Belch,8,Special,User must have consumed a Berry.,120,90,10
+Belly Drum,1,Status,User loses 50% of its max HP	 but Attack raises to maximum.,,,10
+Bestow,1,Status,Gives the user's held item to the target.,,,15
+Bide,1,Physical,User takes damage for two turns then strikes back double.,,,10
+Bind,1,Physical,Traps opponent	 damaging them for 4-5 turns.,15,85,20
+Bite,16,Physical,May cause flinching.,60,100,25
+Bitter Blade,2,Physical,User recovers half the HP inflicted on opponent.,90,100,10
+Bitter Malice,14,Special,Lowers opponent's Attack.,75,100,10
+Black Hole Eclipse,16,null,Dark type Z-Move.,,,1
+Blast Burn,2,Special,User must recharge next turn.,150,90,5
+Blaze Kick,2,Physical,High critical hit ratio. May burn opponent.,85,90,10
+Blazing Torque,2,Physical,May burn the opponent.,80,100,10
+Bleakwind Storm,10,Special,May lower opponent's Speed.,100,80,10
+Blizzard,6,Special,May freeze opponent.,110,70,5
+Block,1,Status,Opponent cannot flee or switch.,,,5
+Blood Moon,1,Special,Cannot be used twice in a row.,140,100,5
+Bloom Doom,5,null,Grass type Z-Move.,,,1
+Blue Flare,2,Special,May burn opponent.,130,85,5
+Body Press,7,Physical,The higher the user's Defense	 the stronger the attack.,80,100,10
+Body Slam,1,Physical,May paralyze opponent.,85,100,15
+Bolt Beak,4,Physical,If the user attacks before the target	 the power of this move is doubled.,85,100,10
+Bolt Strike,4,Physical,May paralyze opponent.,130,85,5
+Bone Club,9,Physical,May cause flinching.,65,85,20
+Bone Rush,9,Physical,Hits 2-5 times in one turn.,25,90,10
+Bonemerang,9,Physical,Hits twice in one turn.,50,90,10
+Boomburst,1,Special,Hits all adjacent Pokémon.,140,100,10
+Bounce,10,Physical,Springs up on first turn	 attacks on second. May paralyze opponent.,85,85,5
+Bouncy Bubble,3,Special,User recovers half the HP inflicted on opponent.,90,100,15
+Branch Poke,5,Physical,,40,100,40
+Brave Bird,10,Physical,User receives recoil damage.,120,100,15
+Breaking Swipe,15,Physical,Hits multiple opponents and lowers their attack.,60,100,15
+Breakneck Blitz,1,null,Normal type Z-Move.,,,1
+Brick Break,7,Physical,Breaks through Reflect and Light Screen barriers.,75,100,15
+Brine,3,Special,Power doubles if opponent's HP is less than 50%.,65,100,10
+Brutal Swing,16,Physical,The user swings its body around violently to inflict damage on everything in its vicinity.,60,100,20
+Bubble,3,Special,May lower opponent's Speed.,40,100,30
+Bubble Beam,3,Special,May lower opponent's Speed.,65,100,20
+Bug Bite,12,Physical,Receives the effect from the opponent's held berry.,60,100,20
+Bug Buzz,12,Special,May lower opponent's Special Defense.,90,100,10
+Bulk Up,7,Status,Raises user's Attack and Defense.,,,20
+Bulldoze,9,Physical,Lowers opponent's Speed.,60,100,20
+Bullet Punch,17,Physical,User attacks first.,40,100,30
+Bullet Seed,5,Physical,Hits 2-5 times in one turn.,25,100,30
+Burn Up,2,Special,To inflict massive damage	 the user burns itself out. After using this move	 the user will no longer be Fire type.,130,100,5
+Burning Bulwark,2,Status,,,-1,10
+Burning Jealousy,2,Special,Hits all opponents	 and burns any that have had their stats boosted.,70,100,5
+Buzzy Buzz,4,Special,Paralyzes the opponent.,90,100,15
+Calm Mind,11,Status,Raises user's Special Attack and Special Defense.,,,20
+Camouflage,1,Status,Changes user's type according to the location.,,,20
+Captivate,1,Status,Sharply lowers opponent's Special Attack if opposite gender.,,100,20
+Catastropika,4,Physical,Pikachu-exclusive Z-Move.,210,,1
+Ceaseless Edge,16,Physical,Sets up Spikes.,65,90,15
+Celebrate,1,Status,The Pokémon congratulates you on your special day. No battle effect.,,,40
+Charge,4,Status,Raises user's Special Defense and next Electric move's power increases.,,,20
+Charge Beam,4,Special,May raise user's Special Attack.,50,90,10
+Charm,18,Status,Sharply lowers opponent's Attack.,,100,20
+Chatter,10,Special,Confuses opponent.,65,100,20
+Chilling Water,3,Special,Lowers opponent's Attack.,50,100,20
+Chilly Reception,6,Status,Switches out and summons a snowstorm lasting 5 turns.,,,10
+Chip Away,1,Physical,Ignores opponent's stat changes.,70,100,20
+Chloroblast,5,Special,User receives recoil damage.,150,95,5
+Circle Throw,7,Physical,In battles	 the opponent switches. In the wild	 the Pokémon runs.,60,90,10
+Clamp,3,Physical,Traps opponent	 damaging them for 4-5 turns.,35,85,15
+Clanging Scales,15,Special,Lowers user's Defense.,110,100,5
+Clangorous Soul,15,Status,Raises all user's stats but loses HP.,,100,5
+Clangorous Soulblaze,15,Special,Kommo-o exclusive Z-Move.,185,,1
+Clear Smog,8,Special,Removes all of the target's stat changes.,50,,15
+Close Combat,7,Physical,Lowers user's Defense and Special Defense.,120,100,5
+Coaching,7,Status,Boosts Attack and Defense of a teammate.,,,10
+Coil,8,Status,Raises user's Attack	 Defense and Accuracy.,,,20
+Collision Course,7,Physical,Boosted even more if it's super-effective.,100,100,5
+Combat Torque,7,Physical,May paralyze the opponent.,100,100,10
+Comet Punch,1,Physical,Hits 2-5 times in one turn.,18,85,15
+Comeuppance,16,Physical,Deals more damage to the opponent that last inflicted damage on it.,,100,10
+Confide,1,Status,Lowers opponent's Special Attack.,,,20
+Confuse Ray,14,Status,Confuses opponent.,,100,10
+Confusion,11,Special,May confuse opponent.,50,100,25
+Constrict,1,Physical,May lower opponent's Speed by one stage.,10,100,35
+Continental Crush,13,null,Rock type Z-Move.,,,1
+Conversion,1,Status,Changes user's type to that of its first move.,,,30
+Conversion 2,1,Status,User changes type to become resistant to opponent's last move.,,,30
+Copycat,1,Status,Copies opponent's last move.,,,20
+Core Enforcer,15,Special,Suppresses the target's ability if the target has already moved.,100,100,10
+Corkscrew Crash,17,null,Steel type Z-Move.,,,1
+Corrosive Gas,8,Status,Removes opponent's items.,,100,40
+Cosmic Power,11,Status,Raises user's Defense and Special Defense.,,,20
+Cotton Guard,5,Status,Drastically raises user's Defense.,,,10
+Cotton Spore,5,Status,Sharply lowers opponent's Speed.,,100,40
+Counter,7,Physical,When hit by a Physical Attack	 user strikes back with 2x power.,,100,20
+Court Change,1,Status,Swaps the effects on either side of the field.,,100,10
+Covet,1,Physical,Opponent's item is stolen by the user.,60,100,25
+Crabhammer,3,Physical,High critical hit ratio.,100,90,10
+Crafty Shield,18,Status,Protects the Pokémon from status moves.,,,10
+Cross Chop,7,Physical,High critical hit ratio.,100,80,5
+Cross Poison,8,Physical,High critical hit ratio. May poison opponent.,70,100,20
+Crunch,16,Physical,May lower opponent's Defense.,80,100,15
+Crush Claw,1,Physical,May lower opponent's Defense.,75,95,10
+Crush Grip,1,Physical,More powerful when opponent has higher HP.,,100,5
+Curse,14,Status,Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack	 Defense and lower Speed.,,,10
+Cut,1,Physical,,50,95,30
+Dark Pulse,16,Special,May cause flinching.,80,100,15
+Dark Void,16,Status,Puts all adjacent opponents to sleep.,,50,10
+Darkest Lariat,16,Physical,Ignores opponent's stat changes.,85,100,10
+Dazzling Gleam,18,Special,Hits all adjacent opponents.,80,100,10
+Decorate,18,Status,Sharply raises target's Attack and Special Attack.,,,15
+Defend Order,12,Status,Raises user's Defense and Special Defense.,,,10
+Defense Curl,1,Status,Raises user's Defense.,,,40
+Defog,10,Status,Lowers opponent's Evasiveness and clears fog.,,,15
+Destiny Bond,14,Status,If the user faints	 the opponent also faints.,,,5
+Detect,7,Status,Protects the user	 but may fail if used consecutively.,,,5
+Devastating Drake,15,null,Dragon type Z-Move.,,,1
+Diamond Storm,13,Physical,May sharply raise user's Defense.,100,95,5
+Dig,9,Physical,Digs underground on first turn	 attacks on second. Can also escape from caves.,80,100,10
+Dire Claw,8,Physical,May poison	 paralyze or put the opponent to sleep.,80,100,15
+Disable,1,Status,Opponent can't use its last attack for a few turns.,,100,20
+Disarming Voice,18,Special,Ignores Accuracy and Evasiveness.,40,-1,15
+Discharge,4,Special,May paralyze opponent.,80,100,15
+Dive,3,Physical,Dives underwater on first turn	 attacks on second turn.,80,100,10
+Dizzy Punch,1,Physical,May confuse opponent.,70,100,10
+Doodle,1,Status,Changes the abilities of the user and its teammates to that of the target.,,100,10
+Doom Desire,17,Special,Damage occurs 2 turns later.,140,100,5
+Double Hit,1,Physical,Hits twice in one turn.,35,90,10
+Double Iron Bash,17,Physical,Hits twice in one turn; may cause flinching.,60,100,5
+Double Kick,7,Physical,Hits twice in one turn.,30,100,30
+Double Shock,4,Physical,After using this move	 the user will no longer be Electric type.,120,100,5
+Double Slap,1,Physical,Hits 2-5 times in one turn.,15,85,10
+Double Team,1,Status,Raises user's Evasiveness.,,,15
+Double-Edge,1,Physical,User receives recoil damage.,120,100,15
+Draco Meteor,15,Special,Sharply lowers user's Special Attack.,130,90,5
+Dragon Ascent,10,Physical,Lowers user's Defense and Special Defense.,120,100,5
+Dragon Breath,15,Special,May paralyze opponent.,60,100,20
+Dragon Cheer,15,Status,,,-1,15
+Dragon Claw,15,Physical,,80,100,15
+Dragon Dance,15,Status,Raises user's Attack and Speed.,,,20
+Dragon Darts,15,Physical,User attacks twice.,50,100,10
+Dragon Energy,15,Special,The higher the user's HP	 the higher the power.,150,100,5
+Dragon Hammer,15,Physical,The user uses its body like a hammer to attack the target and inflict damage.,90,100,15
+Dragon Pulse,15,Special,,85,100,10
+Dragon Rage,15,Special,Always inflicts 40 HP.,,100,10
+Dragon Rush,15,Physical,May cause flinching.,100,75,10
+Dragon Tail,15,Physical,In battles	 the opponent switches. In the wild	 the Pokémon runs.,60,90,10
+Drain Punch,7,Physical,User recovers half the HP inflicted on opponent.,75,100,10
+Draining Kiss,18,Special,User recovers most the HP inflicted on opponent.,50,100,10
+Dream Eater,11,Special,User recovers half the HP inflicted on a sleeping opponent.,100,100,15
+Drill Peck,10,Physical,,80,100,20
+Drill Run,9,Physical,High critical hit ratio.,80,95,10
+Drum Beating,5,Physical,Lowers opponent's Speed.,80,100,10
+Dual Chop,15,Physical,Hits twice in one turn.,40,90,15
+Dual Wingbeat,10,Physical,The user slams the target with its wings. The target is hit twice in a row.,40,90,10
+Dynamax Cannon,15,Special,Damage doubles if opponent is Dynamaxed.,100,100,5
+Dynamic Punch,7,Physical,Confuses opponent.,100,50,5
+Earth Power,9,Special,May lower opponent's Special Defense.,90,100,10
+Earthquake,9,Physical,Power is doubled if opponent is underground from using Dig.,100,100,10
+Echoed Voice,1,Special,Power increases each turn.,40,100,15
+Eerie Impulse,4,Status,Sharply lowers opponent's Special Attack.,,100,15
+Eerie Spell,11,Special,Deals damage and reduces opponent's PP.,80,100,5
+Egg Bomb,1,Physical,,100,75,10
+Electric Terrain,4,Status,Prevents all Pokémon from falling asleep for 5 turns.,,,10
+Electrify,4,Status,Changes the target's move to Electric type.,,,20
+Electro Ball,4,Special,The faster the user	 the stronger the attack.,,100,10
+Electro Drift,4,Special,Boosted even more if it's super-effective.,100,100,5
+Electro Shot,4,Special,Charges on first turn	 attacks on second.,130,100,10
+Electroweb,4,Special,Lowers opponent's Speed.,55,95,15
+Embargo,16,Status,Opponent cannot use items.,,100,15
+Ember,2,Special,May burn opponent.,40,100,25
+Encore,1,Status,Forces opponent to keep using its last move for 3 turns.,,100,5
+Endeavor,1,Physical,Reduces opponent's HP to same as user's.,,100,5
+Endure,1,Status,Always left with at least 1 HP	 but may fail if used consecutively.,,,10
+Energy Ball,5,Special,May lower opponent's Special Defense.,90,100,10
+Entrainment,1,Status,Makes target's ability same as user's.,,100,15
+Eruption,2,Special,Stronger when the user's HP is higher.,150,100,5
+Esper Wing,11,Special,High critical hit ratio. Raises user's Speed.,80,100,10
+Eternabeam,15,Special,User can't move on the next turn.,160,90,5
+Expanding Force,11,Special,Increases power and hits all opponents on Psychic Terrain.,80,100,10
+Explosion,1,Physical,User faints.,250,100,5
+Extrasensory,11,Special,May cause flinching.,80,100,20
+Extreme Evoboost,1,Status,Eevee-exclusive Z-Move. Sharply raises all stats.,,,1
+Extreme Speed,1,Physical,User attacks first.,80,100,5
+Facade,1,Physical,Power doubles if user is burned	 poisoned	 or paralyzed.,70,100,20
+Fairy Lock,18,Status,Prevents fleeing in the next turn.,,,10
+Fairy Wind,18,Special,,40,100,30
+Fake Out,1,Physical,User attacks first	 foe flinches. Only usable on first turn.,40,100,10
+Fake Tears,16,Status,Sharply lowers opponent's Special Defense.,,100,20
+False Surrender,16,Physical,Ignores Accuracy and Evasiveness.,80,-1,10
+False Swipe,1,Physical,Always leaves opponent with at least 1 HP.,40,100,40
+Feather Dance,10,Status,Sharply lowers opponent's Attack.,,100,15
+Feint,1,Physical,Only hits if opponent uses Protect or Detect in the same turn.,30,100,10
+Feint Attack,16,Physical,Ignores Accuracy and Evasiveness.,60,-1,20
+Fell Stinger,12,Physical,Drastically raises user's Attack if target is KO'd.,50,100,25
+Fickle Beam,15,Special,May deal double damage.,80,100,5
+Fiery Dance,2,Special,May raise user's Special Attack.,80,100,10
+Fiery Wrath,16,Special,May cause flinching.,90,100,10
+Fillet Away,1,Status,Lowers HP but sharply boosts Attack	 Special Attack	 and Speed.,,,10
+Final Gambit,7,Special,Inflicts damage equal to the user's remaining HP. User faints.,,100,5
+Fire Blast,2,Special,May burn opponent.,110,85,5
+Fire Fang,2,Physical,May cause flinching and/or burn opponent.,65,95,15
+Fire Lash,2,Physical,The user strikes the target with a burning lash. This also lowers the target's Defense stat.,80,100,15
+Fire Pledge,2,Special,Added effects appear if combined with Grass Pledge or Water Pledge.,80,100,10
+Fire Punch,2,Physical,May burn opponent.,75,100,15
+Fire Spin,2,Special,Traps opponent	 damaging them for 4-5 turns.,35,85,15
+First Impression,12,Physical,Although this move has great power	 it only works the first turn the user is in battle.,90,100,10
+Fishious Rend,3,Physical,If the user attacks before the target	 the power of this move is doubled.,85,100,10
+Fissure,9,Physical,One-Hit-KO	 if it hits.,,30,5
+Flail,1,Physical,The lower the user's HP	 the higher the power.,,100,15
+Flame Burst,2,Special,May also injure nearby Pokémon.,70,100,15
+Flame Charge,2,Physical,Raises user's Speed.,50,100,20
+Flame Wheel,2,Physical,May burn opponent.,60,100,25
+Flamethrower,2,Special,May burn opponent.,90,100,15
+Flare Blitz,2,Physical,User receives recoil damage. May burn opponent.,120,100,15
+Flash,1,Status,Lowers opponent's Accuracy.,,100,20
+Flash Cannon,17,Special,May lower opponent's Special Defense.,80,100,10
+Flatter,16,Status,Confuses opponent	 but raises its Special Attack.,,100,15
+Fleur Cannon,18,Special,Sharply lowers user's Special Attack.,130,90,5
+Fling,16,Physical,Power depends on held item.,,100,10
+Flip Turn,3,Physical,After making its attack	 the user rushes back to switch places with a party Pokémon in waiting.,60,100,20
+Floaty Fall,10,Physical,May cause flinching.,90,95,15
+Floral Healing,18,Status,The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.,,,10
+Flower Shield,18,Status,Sharply raises Defense of all Grass-type Pokémon on the field.,,,10
+Flower Trick,5,Physical,Never misses; always results in a critical hit.,70,-1,10
+Fly,10,Physical,Flies up on first turn	 attacks on second turn.,90,95,15
+Flying Press,7,Physical,Deals Fighting and Flying type damage.,100,95,10
+Focus Blast,7,Special,May lower opponent's Special Defense.,120,70,5
+Focus Energy,1,Status,Increases critical hit ratio.,,,30
+Focus Punch,7,Physical,If the user is hit before attacking	 it flinches instead.,150,100,20
+Follow Me,1,Status,In Double Battle	 the user takes all the attacks.,,,20
+Force Palm,7,Physical,May paralyze opponent.,60,100,10
+Foresight,1,Status,Resets opponent's Evasiveness	 and allows Normal- and Fighting-type attacks to hit Ghosts.,,,40
+Forest's Curse,5,Status,Adds Grass type to opponent.,,100,20
+Foul Play,16,Physical,Uses the opponent's Attack stat.,95,100,15
+Freeze Shock,6,Physical,Charges on first turn	 attacks on second. May paralyze opponent.,140,90,5
+Freeze-Dry,6,Special,May freeze opponent. Super-effective against Water types.,70,100,20
+Freezing Glare,11,Special,May freeze opponent.,90,100,10
+Freezy Frost,6,Special,Resets all stat changes.,90,100,15
+Frenzy Plant,5,Special,User must recharge next turn.,150,90,5
+Frost Breath,6,Special,Always results in a critical hit.,60,90,10
+Frustration,1,Physical,Power decreases with higher Friendship.,,100,20
+Fury Attack,1,Physical,Hits 2-5 times in one turn.,15,85,20
+Fury Cutter,12,Physical,Power increases each turn.,40,95,20
+Fury Swipes,1,Physical,Hits 2-5 times in one turn.,18,80,15
+Fusion Bolt,4,Physical,Power increases if Fusion Flare is used in the same turn.,100,100,5
+Fusion Flare,2,Special,Power increases if Fusion Bolt is used in the same turn.,100,100,5
+Future Sight,11,Special,Damage occurs 2 turns later.,120,100,10
+G-Max Befuddle,12,null,Butterfree-exclusive G-Max Move. Poisons	 paralyzes	 or puts opponent to sleep.,,-1,5
+G-Max Cannonade,3,null,Blastoise-exclusive G-Max Move. Damages non-Water types for 4 turns.,,-1,10
+G-Max Centiferno,2,null,Centiskorch-exclusive G-Max Move. Traps opponents for 4-5 turns.,,-1,5
+G-Max Chi Strike,7,null,Machamp-exclusive G-Max Move. Increases critical hit ratio.,,-1,5
+G-Max Cuddle,1,null,Eevee-exclusive G-Max Move. Infatuates opponents.,,-1,5
+G-Max Depletion,15,null,Duraludon-exclusive G-Max Move. Reduces opponent's PP.,,-1,5
+G-Max Drum Solo,5,null,Rillaboom-exclusive G-Max Move. Ignores target's ability.,160,-1,5
+G-Max Finale,18,null,Alcremie-exclusive G-Max Move. Heals the user's team.,,-1,5
+G-Max Fireball,2,null,Cinderace-exclusive G-Max Move. Ignores target's ability.,160,-1,5
+G-Max Foam Burst,3,null,Kingler-exclusive G-Max Move. Harshly lowers opponents' Speed.,,-1,5
+G-Max Gold Rush,1,null,Meowth-exclusive G-Max Move. Confuses opponents and earns more money.,,-1,5
+G-Max Gravitas,11,null,Orbeetle-exclusive G-Max Move. Summons Gravity for 5 turns.,,-1,5
+G-Max Hydrosnipe,3,null,Inteleon-exclusive G-Max Move. Ignores target's ability.,160,-1,5
+G-Max Malodor,8,null,Garbodor-exclusive G-Max Move. Poisons opponents.,,-1,5
+G-Max Meltdown,17,null,Melmetal-exclusive G-Max Move. Prevents opponents using the same move twice in a row.,,-1,5
+G-Max One Blow,16,null,Urshifu Single-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.,,-1,5
+G-Max Rapid Flow,3,null,Urshifu Rapid-Strike Style-exclusive G-Max Move. Strikes through Max Guard and Protect.,,-1,5
+G-Max Replenish,1,null,Snorlax-exclusive G-Max Move. Recycles Berries.,,-1,5
+G-Max Resonance,6,null,Lapras-exclusive G-Max Move. Reduces damage for 5 turns.,,-1,5
+G-Max Sandblast,9,null,Sandaconda-exclusive G-Max Move. Traps opponents for 4-5 turns.,,-1,5
+G-Max Smite,18,null,Hatterene-exclusive G-Max Move. Confuses opponents.,,-1,5
+G-Max Snooze,16,null,Grimmsnarl-exclusive G-Max Move. Makes opponents drowsy.,,-1,5
+G-Max Steelsurge,17,null,Copperajah-exclusive G-Max Move. Sets up Spikes on the field.,,-1,5
+G-Max Stonesurge,3,null,Drednaw-exclusive G-Max Move. Sets up Stealth Rock.,,-1,5
+G-Max Stun Shock,4,null,Toxtricity-exclusive G-Max Move. Poisons or paralyzes opponents.,,-1,10
+G-Max Sweetness,5,null,Appletun-exclusive G-Max Move. Heals status conditions of user's team.,,-1,10
+G-Max Tartness,5,null,Flapple-exclusive G-Max Move. Reduces opponents' evasiveness.,,-1,10
+G-Max Terror,14,null,Gengar-exclusive G-Max Move. Prevents opponent from switching out.,,-1,10
+G-Max Vine Lash,5,null,Venusaur-exclusive G-Max Move. Damages non-Grass types for 4 turns.,,-1,10
+G-Max Volcalith,13,null,Coalossal-exclusive G-Max Move. Deals damage for 4 turns.,,-1,10
+G-Max Volt Crash,4,null,Pikachu-exclusive G-Max Move. Paralyzes opponents.,,-1,10
+G-Max Wildfire,2,null,Charizard-exclusive G-Max Move. Damages non-Fire types for 4 turns.,,-1,10
+G-Max Wind Rage,10,null,Corviknight-exclusive G-Max Move. Removes battlefield hazards.,,-1,10
+Gastro Acid,8,Status,Cancels out the effect of the opponent's Ability.,,100,10
+Gear Grind,17,Physical,Hits twice in one turn.,50,85,15
+Gear Up,17,Status,The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.,,,20
+Genesis Supernova,11,Special,Mew-exclusive Z-Move.,185,,1
+Geomancy,18,Status,Charges on first turn	 sharply raises user's Sp. Attack	 Sp. Defense and Speed on the second.,,,10
+Giga Drain,5,Special,User recovers half the HP inflicted on opponent.,75,100,10
+Giga Impact,1,Physical,User must recharge next turn.,150,90,5
+Gigaton Hammer,17,Physical,Cannot be used twice in a row.,160,100,5
+Gigavolt Havoc,4,null,Electric type Z-Move.,,,1
+Glacial Lance,6,Physical,The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.,120,100,5
+Glaciate,6,Special,Lowers opponent's Speed.,65,95,10
+Glaive Rush,15,Physical,Attacks from opposing Pokémon during the next turn cannot miss and will inflict double damage.,120,100,5
+Glare,1,Status,Paralyzes opponent.,,100,30
+Glitzy Glow,11,Special,Reduces damage from Special attacks.,90,100,15
+Grass Knot,5,Special,The heavier the opponent	 the stronger the attack.,,100,20
+Grass Pledge,5,Special,Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.,80,100,10
+Grass Whistle,5,Status,Puts opponent to sleep.,,55,15
+Grassy Glide,5,Physical,High priority during Grassy Terrain.,55,100,20
+Grassy Terrain,5,Status,Restores a little HP of all Pokémon for 5 turns.,,,10
+Grav Apple,5,Physical,Lowers the opponent's Defense stat.,80,100,10
+Gravity,11,Status,Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.,,,5
+Growl,1,Status,Lowers opponent's Attack.,,100,40
+Growth,1,Status,Raises user's Attack and Special Attack.,,,20
+Grudge,14,Status,If the users faints after using this move	 the PP for the opponent's last move is depleted.,,,5
+Guard Split,11,Status,Averages Defense and Special Defense with the target.,,,10
+Guard Swap,11,Status,User and opponent swap Defense and Special Defense.,,,10
+Guardian of Alola,18,Special,Tapu-exclusive Z-move. Cuts opponent's HP by 75%.,,,1
+Guillotine,1,Physical,One-Hit-KO	 if it hits.,,30,5
+Gunk Shot,8,Physical,May poison opponent.,120,80,5
+Gust,10,Special,Hits Pokémon using Fly/Bounce/Sky Drop with double power.,40,100,35
+Gyro Ball,17,Physical,The slower the user	 the stronger the attack.,,100,5
+Hail,6,Status,Non-Ice types are damaged for 5 turns.,,,10
+Hammer Arm,7,Physical,Lowers user's Speed.,100,90,10
+Happy Hour,1,Status,Doubles prize money from trainer battles.,,,30
+Hard Press,17,Physical,,,100,10
+Harden,1,Status,Raises user's Defense.,,,30
+Haze,6,Status,Resets all stat changes.,,,30
+Head Charge,1,Physical,User receives recoil damage.,120,100,15
+Head Smash,13,Physical,User receives recoil damage.,150,80,5
+Headbutt,1,Physical,May cause flinching.,70,100,15
+Headlong Rush,9,Physical,Lowers user's Defense.,120,100,5
+Heal Bell,1,Status,Heals the user's party's status conditions.,,,5
+Heal Block,11,Status,Prevents the opponent from restoring HP for 5 turns.,,100,15
+Heal Order,12,Status,User recovers half its max HP.,,,10
+Heal Pulse,11,Status,Restores half the target's max HP.,,,10
+Healing Wish,11,Status,The user faints and the next Pokémon released is fully healed.,,,10
+Heart Stamp,11,Physical,May cause flinching.,60,100,25
+Heart Swap,11,Status,Stat changes are swapped with the opponent.,,,10
+Heat Crash,2,Physical,The heavier the user	 the stronger the attack.,,100,10
+Heat Wave,2,Special,May burn opponent.,95,90,10
+Heavy Slam,17,Physical,The heavier the user	 the stronger the attack.,,100,10
+Helping Hand,1,Status,In Double Battles	 boosts the power of the partner's move.,,,20
+Hex,14,Special,Inflicts more damage if the target has a status condition.,65,100,10
+Hidden Power,1,Special,Type and power depends on user's IVs.,60,100,15
+High Horsepower,9,Physical,The user fiercely attacks the target using its entire body.,95,95,10
+High Jump Kick,7,Physical,If it misses	 the user loses half their HP.,130,90,10
+Hold Back,1,Physical,Always leaves opponent with at least 1 HP.,40,100,40
+Hold Hands,1,Status,Makes the user and an ally very happy.,,,40
+Hone Claws,16,Status,Raises user's Attack and Accuracy.,,,15
+Horn Attack,1,Physical,,65,100,25
+Horn Drill,1,Physical,One-Hit-KO	 if it hits.,,30,5
+Horn Leech,5,Physical,User recovers half the HP inflicted on opponent.,75,100,10
+Howl,1,Status,Raises Attack of allies.,,,40
+Hurricane,10,Special,May confuse opponent.,110,70,10
+Hydro Cannon,3,Special,User must recharge next turn.,150,90,5
+Hydro Pump,3,Special,,110,80,5
+Hydro Steam,3,Special,Power increases in harsh sunlight.,80,100,15
+Hydro Vortex,3,null,Water type Z-Move.,,,1
+Hyper Beam,1,Special,User must recharge next turn.,150,90,5
+Hyper Drill,1,Physical,Can strike through Protect/Detect.,100,100,5
+Hyper Fang,1,Physical,May cause flinching.,80,90,15
+Hyper Voice,1,Special,,90,100,10
+Hyperspace Fury,16,Physical,Lowers user's Defense. Can strike through Protect/Detect.,100,-1,5
+Hyperspace Hole,11,Special,Can strike through Protect/Detect.,80,-1,5
+Hypnosis,11,Status,Puts opponent to sleep.,,60,20
+Ice Ball,6,Physical,Doubles in power each turn for 5 turns.,30,90,20
+Ice Beam,6,Special,May freeze opponent.,90,100,10
+Ice Burn,6,Special,Charges on first turn	 attacks on second. May burn opponent.,140,90,5
+Ice Fang,6,Physical,May cause flinching and/or freeze opponent.,65,95,15
+Ice Hammer,6,Physical,The user swings and hits with its strong	 heavy fist. It lowers the user's Speed	 however.,100,90,10
+Ice Punch,6,Physical,May freeze opponent.,75,100,15
+Ice Shard,6,Physical,User attacks first.,40,100,30
+Ice Spinner,6,Physical,Removes effects of Terrain.,80,100,15
+Icicle Crash,6,Physical,May cause flinching.,85,90,10
+Icicle Spear,6,Physical,Hits 2-5 times in one turn.,25,100,30
+Icy Wind,6,Special,Lowers opponent's Speed.,55,95,15
+Imprison,11,Status,Opponent is unable to use moves that the user also knows.,,,10
+Incinerate,2,Special,Destroys the target's held berry.,60,100,15
+Infernal Parade,14,Special,Inflicts double damage if the target has a status condition.,60,100,15
+Inferno,2,Special,Burns opponent.,100,50,5
+Inferno Overdrive,2,null,Fire type Z-Move.,,,1
+Infestation,12,Special,Traps opponent	 damaging them for 4-5 turns.,20,100,20
+Ingrain,5,Status,User restores HP each turn. User cannot escape/switch.,,,20
+Instruct,11,Status,Allows an ally to use a move instead.,,,15
+Ion Deluge,4,Status,Changes Normal-type moves to Electric-type.,,,25
+Iron Defense,17,Status,Sharply raises user's Defense.,,,15
+Iron Head,17,Physical,May cause flinching.,80,100,15
+Iron Tail,17,Physical,May lower opponent's Defense.,100,75,15
+Ivy Cudgel,5,Physical,High critical hit ratio. Type changes based on form.,100,,
+Jaw Lock,16,Physical,Prevents user and opponent from switching out.,80,100,10
+Jet Punch,3,Physical,Always goes first.,60,100,15
+Judgment,1,Special,Type depends on the Arceus Plate being held.,100,100,10
+Jump Kick,7,Physical,If it misses	 the user loses half their HP.,100,95,10
+Jungle Healing,5,Status,Restores team's HP and cures status conditions.,,,10
+Karate Chop,7,Physical,High critical hit ratio.,50,100,25
+Kinesis,11,Status,Lowers opponent's Accuracy.,,80,15
+King's Shield,17,Status,Protects the user and lowers opponent's Attack on contact.,,,10
+Knock Off,16,Physical,Removes opponent's held item for the rest of the battle.,65,100,20
+Kowtow Cleave,16,Physical,Always hits.,85,-1,10
+Land's Wrath,9,Physical,,90,100,10
+Laser Focus,1,Status,User's next attack is guaranteed to result in a critical hit.,,,30
+Lash Out,16,Physical,Double power if stats were lowered during the turn.,75,100,5
+Last Resort,1,Physical,Can only be used after all other moves are used.,140,100,5
+Last Respects,14,Physical,Damages increases the more party Pokémon have been defeated.,50,100,10
+Lava Plume,2,Special,May burn opponent.,80,100,15
+Leaf Blade,5,Physical,High critical hit ratio.,90,100,15
+Leaf Storm,5,Special,Sharply lowers user's Special Attack.,130,90,5
+Leaf Tornado,5,Special,May lower opponent's Accuracy.,65,90,10
+Leafage,5,Physical,Strikes opponent with leaves.,40,100,40
+Leech Life,12,Physical,User recovers half the HP inflicted on opponent.,80,100,10
+Leech Seed,5,Status,Drains HP from opponent each turn.,,90,10
+Leer,1,Status,Lowers opponent's Defense.,,100,30
+Let's Snuggle Forever,18,Physical,Mimikyu-exclusive Z-Move.,190,,1
+Lick,14,Physical,May paralyze opponent.,30,100,30
+Life Dew,3,Status,User and teammates recover HP.,,,10
+Light of Ruin,18,Special,User receives recoil damage.,140,90,5
+Light Screen,11,Status,Halves damage from Special attacks for 5 turns.,,,30
+Light That Burns the Sky,11,Special,Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.,200,,1
+Liquidation,3,Physical,May lower opponent's Defense.,85,100,10
+Lock-On,1,Status,User's next attack is guaranteed to hit.,,,5
+Lovely Kiss,1,Status,Puts opponent to sleep.,,75,10
+Low Kick,7,Physical,The heavier the opponent	 the stronger the attack.,,100,20
+Low Sweep,7,Physical,Lowers opponent's Speed.,65,100,20
+Lucky Chant,1,Status,Opponent cannot land critical hits for 5 turns.,,,30
+Lumina Crash,11,Special,Harshly lowers target’s Special Defense.,80,100,10
+Lunar Blessing,11,Status,Heals user's status conditions and recovers HP.,,,5
+Lunar Dance,11,Status,The user faints but the next Pokémon released is fully healed.,,,10
+Lunge,12,Physical,The user makes a lunge at the target	 attacking with full force. This also lowers the target's Attack stat.,80,100,15
+Luster Purge,11,Special,May lower opponent's Special Defense.,95,100,5
+Mach Punch,7,Physical,User attacks first.,40,100,30
+Magic Coat,11,Status,Reflects moves that cause status conditions back to the attacker.,,,15
+Magic Powder,11,Status,Changes target's type to Psychic.,,100,20
+Magic Room,11,Status,Suppresses the effects of held items for five turns.,,,10
+Magical Leaf,5,Special,Ignores Accuracy and Evasiveness.,60,-1,20
+Magical Torque,18,Physical,May confuse the opponent.,100,100,10
+Magma Storm,2,Special,Traps opponent	 damaging them for 4-5 turns.,100,75,5
+Magnet Bomb,17,Physical,Ignores Accuracy and Evasiveness.,60,-1,20
+Magnet Rise,4,Status,User becomes immune to Ground-type moves for 5 turns.,,,10
+Magnetic Flux,4,Status,Raises Defense and Sp. Defense of Plus/Minus Pokémon.,,,20
+Magnitude,9,Physical,Hits with random power.,,100,30
+Make It Rain,17,Special,Lowers user's Special Attack. Money is earned after the battle.,120,100,5
+Malicious Moonsault,16,Physical,Incineroar-exclusive Z-Move.,180,,1
+Malignant Chain,8,Special,May poison the opponent.,100,100,5
+Mat Block,7,Status,Protects teammates from damaging moves.,,,10
+Matcha Gotcha,5,Special,Deals damage	 restores HP	 may burn opponent.,80,90,15
+Max Airstream,10,null,Flying type Dynamax move. Raises the team's Speed.,,,
+Max Darkness,16,null,Dark type Dynamax move. Lowers the target's Special Defense.,,,
+Max Flare,2,null,Fire type Dynamax move. Summons harsh sunlight.,,,
+Max Flutterby,12,null,Bug type Dynamax move. Lowers the target's Special Attack.,,,
+Max Geyser,3,null,Water type Dynamax move. Summons heavy rain.,,,
+Max Guard,1,null,Status category Dynamax move. Protects the user.,,,
+Max Hailstorm,6,null,Ice type Dynamax move. Summons hail.,,,
+Max Knuckle,7,null,Fighting type Dynamax move. Increases the team's Attack.,,,
+Max Lightning,4,null,Electric type Dynamax move. Summons Electric Terrain.,,,
+Max Mindstorm,11,null,Psychic type Dynamax move. Summons Psychic Terrain.,,,
+Max Ooze,8,null,Poison type Dynamax move. Increases the team's Special Attack.,,,
+Max Overgrowth,5,null,Grass type Dynamax move. Summons Grassy Terrain.,,,
+Max Phantasm,14,null,Ghost type Dynamax move. Lowers the target's Defense.,,,
+Max Quake,9,null,Ground type Dynamax move. Increases the team's Special Defense.,,,
+Max Rockfall,13,null,Rock type Dynamax move. Summons a sandstorm.,,,
+Max Starfall,18,null,Fairy type Dynamax move. Summons Misty Terrain.,,,
+Max Steelspike,17,null,Steel type Dynamax move. Raises the team's Defense.,,,
+Max Strike,1,null,Normal type Dynamax move. Lowers the target's Speed.,,,
+Max Wyrmwind,15,null,Dragon type Dynamax move. Lowers the target's Attack.,,,
+Me First,1,Status,User copies the opponent's attack with 1.5× power.,,,20
+Mean Look,1,Status,Opponent cannot flee or switch.,,,5
+Meditate,11,Status,Raises user's Attack.,,,40
+Mega Drain,5,Special,User recovers half the HP inflicted on opponent.,40,100,15
+Mega Kick,1,Physical,,120,75,5
+Mega Punch,1,Physical,,80,85,20
+Megahorn,12,Physical,,120,85,10
+Memento,16,Status,User faints	 sharply lowers opponent's Attack and Special Attack.,,100,10
+Menacing Moonraze Maelstrom,14,Special,Lunala-exclusive Z-Move.,200,,1
+Metal Burst,17,Physical,Deals damage equal to 1.5x opponent's attack.,,100,10
+Metal Claw,17,Physical,May raise user's Attack.,50,95,35
+Metal Sound,17,Status,Sharply lowers opponent's Special Defense.,,85,40
+Meteor Assault,7,Physical,User must recharge next turn.,150,100,5
+Meteor Beam,13,Special,User gathers space power and boosts its Sp. Atk stat	 then attacks the target on the next turn.,120,90,10
+Meteor Mash,17,Physical,May raise user's Attack.,90,90,10
+Metronome,1,Status,User performs almost any move in the game at random.,,,10
+Mighty Cleave,13,Physical,,95,100,5
+Milk Drink,1,Status,User recovers half its max HP.,,,5
+Mimic,1,Status,Copies the opponent's last move.,,,10
+Mind Blown,2,Special,User receives recoil damage.,150,100,5
+Mind Reader,1,Status,User's next attack is guaranteed to hit.,,,5
+Minimize,1,Status,Sharply raises user's Evasiveness.,,,10
+Miracle Eye,11,Status,Resets opponent's Evasiveness	 removes Dark's Psychic immunity.,,,40
+Mirror Coat,11,Special,When hit by a Special Attack	 user strikes back with 2x power.,,100,20
+Mirror Move,10,Status,User performs the opponent's last move.,,,20
+Mirror Shot,17,Special,May lower opponent's Accuracy.,65,85,10
+Mist,6,Status,User's stats cannot be changed for a period of time.,,,30
+Mist Ball,11,Special,May lower opponent's Special Attack.,95,100,5
+Misty Explosion,18,Special,Power increases on Misty Terrain.,100,100,5
+Misty Terrain,18,Status,Protects the field from status conditions for 5 turns.,,,10
+Moonblast,18,Special,May lower opponent's Special Attack.,95,100,15
+Moongeist Beam,14,Special,Ignores the target's ability.,100,100,5
+Moonlight,18,Status,User recovers HP. Amount varies with the weather.,,,5
+Morning Sun,1,Status,User recovers HP. Amount varies with the weather.,,,5
+Mortal Spin,8,Physical,Removes entry hazards and trap move effects	 and poisons opposing Pokémon.,30,100,15
+Mountain Gale,6,Physical,Lowers user's Speed.,100,85,10
+Mud Bomb,9,Special,May lower opponent's Accuracy.,65,85,10
+Mud Shot,9,Special,Lowers opponent's Speed.,55,95,15
+Mud Sport,9,Status,Weakens the power of Electric-type moves.,,,15
+Mud-Slap,9,Special,Lowers opponent's Accuracy.,20,100,10
+Muddy Water,3,Special,May lower opponent's Accuracy.,90,85,10
+Multi-Attack,1,Physical,Type matches Memory item held.,120,100,10
+Mystical Fire,2,Special,Lowers opponent's Special Attack.,75,100,10
+Mystical Power,11,Special,Raises user's Special Attack.,70,90,10
+Nasty Plot,16,Status,Sharply raises user's Special Attack.,,,20
+Natural Gift,1,Physical,Power and type depend on the user's held berry.,,100,15
+Nature Power,1,Status,Uses a certain move based on the current terrain.,,,20
+Nature's Madness,18,Special,Halves the foe's HP.,,90,10
+Needle Arm,5,Physical,May cause flinching.,60,100,15
+Never-Ending Nightmare,14,null,Ghost type Z-Move.,,,1
+Night Daze,16,Special,May lower opponent's Accuracy.,85,95,10
+Night Shade,14,Special,Inflicts damage equal to user's level.,,100,15
+Night Slash,16,Physical,High critical hit ratio.,70,100,15
+Nightmare,14,Status,The sleeping opponent loses 25% of its max HP each turn.,,100,15
+No Retreat,7,Status,Raises all stats but user cannot switch out.,,,5
+Noble Roar,1,Status,Lowers opponent's Attack and Special Attack.,,100,30
+Noxious Torque,8,Physical,May poison the opponent.,100,100,10
+Nuzzle,4,Physical,Paralyzes opponent.,20,100,20
+Oblivion Wing,10,Special,User recovers most of the HP inflicted on opponent.,80,100,10
+Obstruct,16,Status,Protects the user and sharply lowers Defence on contact.,,100,10
+Oceanic Operetta,3,Special,Primarina-exclusive Z-Move.,195,,1
+Octazooka,3,Special,May lower opponent's Accuracy.,65,85,10
+Octolock,7,Status,Lowers opponent's Defense and Special Defense every turn	 and they cannot flee or switch out.,,100,15
+Odor Sleuth,1,Status,Resets opponent's Evasiveness	 and allows Normal- and Fighting-type attacks to hit Ghosts.,,,40
+Ominous Wind,14,Special,May raise all user's stats at once.,60,100,5
+Order Up,15,Physical,Boosts Attack/Defense/Speed depending on ally Tatsugiri.,80,100,10
+Origin Pulse,3,Special,Hits all adjacent opponents.,110,85,10
+Outrage,15,Physical,User attacks for 2-3 turns but then becomes confused.,120,100,10
+Overdrive,4,Special,Hits all adjacent opponents.,80,100,10
+Overheat,2,Special,Sharply lowers user's Special Attack.,130,90,5
+Pain Split,1,Status,The user's and opponent's HP becomes the average of both.,,,20
+Parabolic Charge,4,Special,User recovers half the HP inflicted on opponent.,65,100,20
+Parting Shot,16,Status,Lowers opponent's Attack and Special Attack then switches out.,,100,20
+Pay Day,1,Physical,Money is earned after the battle.,40,100,20
+Payback,16,Physical,Power doubles if the user was attacked first.,50,100,10
+Peck,10,Physical,,35,100,35
+Perish Song,1,Status,Any Pokémon in play when this attack is used faints in 3 turns.,,,5
+Petal Blizzard,5,Physical,Hits all adjacent Pokémon.,90,100,15
+Petal Dance,5,Special,User attacks for 2-3 turns but then becomes confused.,120,100,10
+Phantom Force,14,Physical,Disappears on first turn	 attacks on second. Can strike through Protect/Detect.,90,100,10
+Photon Geyser,11,Special,Uses Attack or Special Attack stat	 whichever is higher.,100,100,5
+Pika Papow,4,Special,Power increases when player's bond is stronger.,,-1,20
+Pin Missile,12,Physical,Hits 2-5 times in one turn.,25,95,20
+Plasma Fists,4,Physical,Changes Normal-type moves to Electric-type moves.,100,100,15
+Play Nice,1,Status,Lowers opponent's Attack. Always hits.,,,20
+Play Rough,18,Physical,May lower opponent's Attack.,90,90,10
+Pluck,10,Physical,If the opponent is holding a berry	 its effect is stolen by user.,60,100,20
+Poison Fang,8,Physical,May badly poison opponent.,50,100,15
+Poison Gas,8,Status,Poisons opponent.,,90,40
+Poison Jab,8,Physical,May poison the opponent.,80,100,20
+Poison Powder,8,Status,Poisons opponent.,,75,35
+Poison Sting,8,Physical,May poison the opponent.,15,100,35
+Poison Tail,8,Physical,High critical hit ratio. May poison opponent.,50,100,25
+Pollen Puff,12,Special,Deals damage to opponent or restores HP of teammate.,90,100,15
+Poltergeist,14,Physical,Fails if the target doesn’t have an item.,110,90,5
+Population Bomb,1,Physical,Hits 1-10 times in a row.,20,90,10
+Pounce,12,Physical,Lowers opponent's Speed.,50,100,20
+Pound,1,Physical,,40,100,35
+Powder,12,Status,Damages Pokémon using Fire type moves.,,100,20
+Powder Snow,6,Special,May freeze opponent.,40,100,25
+Power Gem,13,Special,,80,100,20
+Power Shift,1,Status,Switches Attack and Defense stats.,,,10
+Power Split,11,Status,Averages Attack and Special Attack with the target.,,,10
+Power Swap,11,Status,User and opponent swap Attack and Special Attack.,,,10
+Power Trick,11,Status,User's own Attack and Defense switch.,,,10
+Power Trip,16,Physical,The user boasts its strength and attacks the target. The more the user's stats are raised	 the greater the move's power.,20,100,10
+Power Whip,5,Physical,,120,85,10
+Power-Up Punch,7,Physical,Raises Attack.,40,100,20
+Precipice Blades,9,Physical,Hits all adjacent opponents.,120,85,10
+Present,1,Physical,Either deals damage or heals.,,90,15
+Prismatic Laser,11,Special,The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.,160,100,10
+Protect,1,Status,Protects the user	 but may fail if used consecutively.,,,10
+Psybeam,11,Special,May confuse opponent.,65,100,20
+Psyblade,11,Physical,Power increases on Electric Terrain.,80,100,15
+Psych Up,1,Status,Copies the opponent's stat changes.,,,10
+Psychic,11,Special,May lower opponent's Special Defense.,90,100,10
+Psychic Fangs,11,Physical,The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.,85,100,10
+Psychic Noise,11,Special,Deals damage and prevents target from healing.,75,100,10
+Psychic Terrain,11,Status,Prevents priority moves from being used for 5 turns.,,,10
+Psycho Boost,11,Special,Sharply lowers user's Special Attack.,140,90,5
+Psycho Cut,11,Physical,High critical hit ratio.,70,100,20
+Psycho Shift,11,Status,Transfers user's status condition to the opponent.,,100,10
+Psyshield Bash,11,Physical,Raises user's Defense and Special Defense.,70,90,10
+Psyshock,11,Special,Inflicts damage based on the target's Defense	 not Special Defense.,80,100,10
+Psystrike,11,Special,Inflicts damage based on the target's Defense	 not Special Defense.,100,100,10
+Psywave,11,Special,Inflicts damage 50-150% of user's level.,,100,15
+Pulverizing Pancake,1,Physical,Snorlax-exclusive Normal type Z-Move.,210,,1
+Punishment,16,Physical,Power increases when opponent's stats have been raised.,,100,5
+Purify,8,Status,The user heals the target's status condition. If the move succeeds	 it also restores the user's own HP.,,,20
+Pursuit,16,Physical,Double power if the opponent is switching out.,40,100,20
+Pyro Ball,2,Physical,May burn opponent.,120,90,5
+Quash,16,Status,Makes the target act last this turn.,,100,15
+Quick Attack,1,Physical,User attacks first.,40,100,30
+Quick Guard,7,Status,Protects the user's team from high-priority moves.,,,15
+Quiver Dance,12,Status,Raises user's Special Attack	 Special Defense and Speed.,,,20
+Rage,1,Physical,Raises user's Attack when hit.,20,100,20
+Rage Fist,14,Physical,The more times the user has been hit by attacks	 the greater the move's power.,50,100,10
+Rage Powder,12,Status,Forces attacks to hit user	 not team-mates.,,,20
+Raging Bull,1,Physical,Type depends on the user’s form. Breaks through Reflect and Light Screen barriers.,90,100,10
+Raging Fury,2,Physical,User attacks for 2-3 turns but then becomes confused.,120,100,10
+Rain Dance,3,Status,Makes it rain for 5 turns.,,,5
+Rapid Spin,1,Physical,Raises user's Speed and removes entry hazards and trap move effects.,50,100,40
+Razor Leaf,5,Physical,High critical hit ratio.,55,95,25
+Razor Shell,3,Physical,May lower opponent's Defense.,75,95,10
+Razor Wind,1,Special,Charges on first turn	 attacks on second. High critical hit ratio.,80,100,10
+Recover,1,Status,User recovers half its max HP.,,,5
+Recycle,1,Status,User's used hold item is restored.,,,10
+Reflect,11,Status,Halves damage from Physical attacks for 5 turns.,,,20
+Reflect Type,1,Status,User becomes the target's type.,,,15
+Refresh,1,Status,Cures paralysis	 poison	 and burns.,,,20
+Relic Song,1,Special,May put the target to sleep.,75,100,10
+Rest,11,Status,User sleeps for 2 turns	 but user is fully healed.,,,5
+Retaliate,1,Physical,Inflicts double damage if a teammate fainted on the last turn.,70,100,5
+Return,1,Physical,Power increases with higher Friendship.,,100,20
+Revelation Dance,1,Special,Type changes based on Oricorio's form.,90,100,15
+Revenge,7,Physical,Power increases if user was hit first.,60,100,10
+Reversal,7,Physical,The lower the user's HP	 the higher the power.,,100,15
+Revival Blessing,1,Status,Revives a fainted party Pokémon to half HP.,,,1
+Rising Voltage,4,Special,Power doubles on Electric Terrain.,70,100,20
+Roar,1,Status,In battles	 the opponent switches. In the wild	 the Pokémon runs.,,,20
+Roar of Time,15,Special,User must recharge next turn.,150,90,5
+Rock Blast,13,Physical,Hits 2-5 times in one turn.,25,90,10
+Rock Climb,1,Physical,May confuse opponent.,90,85,20
+Rock Polish,13,Status,Sharply raises user's Speed.,,,20
+Rock Slide,13,Physical,May cause flinching.,75,90,10
+Rock Smash,7,Physical,May lower opponent's Defense.,40,100,15
+Rock Throw,13,Physical,,50,90,15
+Rock Tomb,13,Physical,Lowers opponent's Speed.,60,95,15
+Rock Wrecker,13,Physical,User must recharge next turn.,150,90,5
+Role Play,11,Status,User copies the opponent's Ability.,,,10
+Rolling Kick,7,Physical,May cause flinching.,60,85,15
+Rollout,13,Physical,Doubles in power each turn for 5 turns.,30,90,20
+Roost,10,Status,User recovers half of its max HP and loses the Flying type temporarily.,,,5
+Rototiller,9,Status,Raises Attack and Special Attack of Grass-types.,,,10
+Round,1,Special,Power increases if teammates use it in the same turn.,60,100,15
+Ruination,16,Special,Halves the opponent's HP.,,90,10
+Sacred Fire,2,Physical,May burn opponent.,100,95,5
+Sacred Sword,7,Physical,Ignores opponent's stat changes.,90,100,15
+Safeguard,1,Status,The user's party is protected from status conditions.,,,25
+Salt Cure,13,Physical,Deals damage each turn; Steel and Water types are more affected.,40,100,15
+Sand Attack,9,Status,Lowers opponent's Accuracy.,,100,15
+Sand Tomb,9,Physical,Traps opponent	 damaging them for 4-5 turns.,35,85,15
+Sandsear Storm,9,Special,May burn target.,100,80,10
+Sandstorm,13,Status,Creates a sandstorm for 5 turns.,,,10
+Sappy Seed,5,Physical,Drains HP from opponent each turn.,90,100,15
+Savage Spin-Out,12,null,Bug type Z-Move.,,,1
+Scald,3,Special,May burn opponent.,80,100,15
+Scale Shot,15,Physical,Hits 2-5 times in one turn. Boosts user's Speed but lowers its Defense.,25,90,20
+Scary Face,1,Status,Sharply lowers opponent's Speed.,,100,10
+Scorching Sands,9,Special,May burn the target.,70,100,10
+Scratch,1,Physical,,40,100,35
+Screech,1,Status,Sharply lowers opponent's Defense.,,85,40
+Searing Shot,2,Special,May burn opponent.,100,100,5
+Searing Sunraze Smash,17,Physical,Solgaleo-exclusive Z-Move.,200,,1
+Secret Power,1,Physical,Effects of the attack vary with the location.,70,100,20
+Secret Sword,7,Special,Inflicts damage based on the target's Defense	 not Special Defense.,85,100,10
+Seed Bomb,5,Physical,,80,100,15
+Seed Flare,5,Special,May lower opponent's Special Defense.,120,85,5
+Seismic Toss,7,Physical,Inflicts damage equal to user's level.,,100,20
+Self-Destruct,1,Physical,User faints.,200,100,5
+Shadow Ball,14,Special,May lower opponent's Special Defense.,80,100,15
+Shadow Bone,14,Physical,May lower opponent's Defense.,85,100,10
+Shadow Claw,14,Physical,High critical hit ratio.,70,100,15
+Shadow Force,14,Physical,Disappears on first turn	 attacks on second. Can strike through Protect/Detect.,120,100,5
+Shadow Punch,14,Physical,Ignores Accuracy and Evasiveness.,60,-1,20
+Shadow Sneak,14,Physical,User attacks first.,40,100,30
+Sharpen,1,Status,Raises user's Attack.,,,30
+Shattered Psyche,11,null,Psychic type Z-Move.,,,1
+Shed Tail,1,Status,Creates a substitute	 then swaps places with a party Pokémon in waiting.,,,10
+Sheer Cold,6,Special,One-Hit-KO	 if it hits.,,30,5
+Shell Side Arm,8,Special,May poison opponent. Inflicts either Special or Physical damage	 whichever is better.,90,100,10
+Shell Smash,1,Status,Sharply raises user's Attack	 Special Attack and Speed but lowers Defense and Special Defense.,,,15
+Shell Trap,2,Special,Deals more damage to opponent if hit by a Physical move.,150,100,5
+Shelter,17,Status,Raises user's Defense.,,,10
+Shift Gear,17,Status,Raises user's Attack and sharply raises Speed.,,,10
+Shock Wave,4,Special,Ignores Accuracy and Evasiveness.,60,-1,20
+Shore Up,9,Status,The user regains up to half of its max HP. It restores more HP in a sandstorm.,,,5
+Signal Beam,12,Special,May confuse opponent.,75,100,15
+Silk Trap,12,Status,Protects the user and lowers opponent's Speed on contact.,,,10
+Silver Wind,12,Special,May raise all stats of user at once.,60,100,5
+Simple Beam,1,Status,Changes target's ability to Simple.,,100,15
+Sing,1,Status,Puts opponent to sleep.,,55,15
+Sinister Arrow Raid,14,Physical,Decidueye-exclusive Z-Move.,180,,1
+Sizzly Slide,2,Physical,Burns the opponent.,90,100,15
+Sketch,1,Status,Permanently copies the opponent's last move.,,,1
+Skill Swap,11,Status,The user swaps Abilities with the opponent.,,,10
+Skitter Smack,12,Physical,Lowers opponent's Sp. Attack.,70,90,10
+Skull Bash,1,Physical,Raises Defense on first turn	 attacks on second.,130,100,10
+Sky Attack,10,Physical,Charges on first turn	 attacks on second. May cause flinching. High critical hit ratio.,140,90,5
+Sky Drop,10,Physical,Takes opponent into the air on first turn	 drops them on second turn.,60,100,10
+Sky Uppercut,7,Physical,Hits the opponent	 even during Fly.,85,90,15
+Slack Off,1,Status,User recovers half its max HP.,,,5
+Slam,1,Physical,,80,75,20
+Slash,1,Physical,High critical hit ratio.,70,100,20
+Sleep Powder,5,Status,Puts opponent to sleep.,,75,15
+Sleep Talk,1,Status,User performs one of its own moves while sleeping.,,,10
+Sludge,8,Special,May poison opponent.,65,100,20
+Sludge Bomb,8,Special,May poison opponent.,90,100,10
+Sludge Wave,8,Special,May poison opponent.,95,100,10
+Smack Down,13,Physical,Makes Flying-type Pokémon vulnerable to Ground moves.,50,100,15
+Smart Strike,17,Physical,The user stabs the target with a sharp horn. This attack never misses.,70,,10
+Smelling Salts,1,Physical,Power doubles if opponent is paralyzed	 but cures it.,70,100,10
+Smog,8,Special,May poison opponent.,30,70,20
+Smokescreen,1,Status,Lowers opponent's Accuracy.,,100,20
+Snap Trap,5,Physical,Traps opponent	 damaging them for 4-5 turns.,35,100,15
+Snarl,16,Special,Lowers opponent's Special Attack.,55,95,15
+Snatch,16,Status,Steals the effects of the opponent's next move.,,,10
+Snipe Shot,3,Special,Ignores moves and abilities that draw in moves. High critical hit ratio.,80,100,15
+Snore,1,Special,Can only be used if asleep. May cause flinching.,50,100,15
+Snowscape,6,Status,Raises Defense of Ice types for 5 turns.,,,10
+Soak,3,Status,Changes the target's type to water.,,100,20
+Soft-Boiled,1,Status,User recovers half its max HP.,,,5
+Solar Beam,5,Special,Charges on first turn	 attacks on second.,120,100,10
+Solar Blade,5,Physical,Charges on first turn	 attacks on second.,125,100,10
+Sonic Boom,1,Special,Always inflicts 20 HP.,,90,20
+Soul-Stealing 7-Star Strike,14,Physical,Marshadow-exclusive Z-Move.,195,,1
+Spacial Rend,15,Special,High critical hit ratio.,100,95,5
+Spark,4,Physical,May paralyze opponent.,65,100,20
+Sparkling Aria,3,Special,Heals the burns of its target.,90,100,10
+Sparkly Swirl,18,Special,Cures all status problems in the party Pokémon.,90,100,15
+Spectral Thief,14,Physical,The user hides in the target's shadow	 steals the target's stat boosts	 and then attacks.,90,100,10
+Speed Swap,11,Status,The user exchanges Speed stats with the target.,,,10
+Spicy Extract,5,Status,Harshly lowers the opponent's Defense and sharply raises their Attack.,,-1,15
+Spider Web,12,Status,Opponent cannot escape/switch.,,,10
+Spike Cannon,1,Physical,Hits 2-5 times in one turn.,20,100,15
+Spikes,9,Status,Damages opponents switching into battle.,,,20
+Spiky Shield,5,Status,Protects the user and inflicts damage on contact.,,,10
+Spin Out,17,Physical,Harshly lowers user’s Speed.,100,100,5
+Spirit Break,18,Physical,Lowers opponent's Special Attack.,75,100,15
+Spirit Shackle,14,Physical,Prevents the opponent from switching out.,80,100,10
+Spit Up,1,Special,Power depends on how many times the user performed Stockpile.,,100,10
+Spite,14,Status,The opponent's last move loses 2-5 PP.,,100,10
+Splash,1,Status,Doesn't do ANYTHING.,,,40
+Splintered Stormshards,13,Physical,Lycanroc-exclusive Z-Move.,190,,1
+Splishy Splash,3,Special,May paralyze opponent.,90,100,15
+Spore,5,Status,Puts opponent to sleep.,,100,15
+Spotlight,1,Status,The user shines a spotlight on the target so that only the target will be attacked during the turn.,,,15
+Springtide Storm,18,Special,Boosts user's stats in Incarnate Forme	 or lowers opponent's stats in Therian Forme.,100,80,5
+Stealth Rock,13,Status,Damages opponents switching into battle.,,,20
+Steam Eruption,3,Special,May burn opponent.,110,95,5
+Steamroller,12,Physical,May cause flinching.,65,100,20
+Steel Beam,17,Special,User loses 50% of its HP.,140,95,5
+Steel Roller,17,Physical,Fails if no Terrain in effect.,130,100,5
+Steel Wing,17,Physical,May raise user's Defense.,70,90,25
+Sticky Web,12,Status,Lowers opponent's Speed when switching into battle.,,,20
+Stockpile,1,Status,Stores energy for use with Spit Up and Swallow.,,,20
+Stoked Sparksurfer,4,Special,Alolan Raichu-exclusive Electric type Z-Move.,175,,1
+Stomp,1,Physical,May cause flinching.,65,100,20
+Stomping Tantrum,9,Physical,Driven by frustration	 the user attacks the target. If the user's previous move has failed	 the power of this move doubles.,75,100,10
+Stone Axe,13,Physical,Sets up Stealth Rock.,65,90,15
+Stone Edge,13,Physical,High critical hit ratio.,100,80,5
+Stored Power,11,Special,Power increases when user's stats have been raised.,20,100,10
+Storm Throw,7,Physical,Always results in a critical hit.,60,100,10
+Strange Steam,18,Special,May confuse opponent.,90,95,10
+Strength,1,Physical,,80,100,15
+Strength Sap,5,Status,The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.,,100,10
+String Shot,12,Status,Sharply lowers opponent's Speed.,,95,40
+Struggle,1,Physical,Only usable when all PP are gone. Hurts the user.,50,,
+Struggle Bug,12,Special,Lowers opponent's Special Attack.,50,100,20
+Stuff Cheeks,1,Status,The user eats its held Berry	 then sharply raises its Defense stat.,,,10
+Stun Spore,5,Status,Paralyzes opponent.,,75,30
+Submission,7,Physical,User receives recoil damage.,80,80,20
+Substitute,1,Status,Uses HP to creates a decoy that takes hits.,,,10
+Subzero Slammer,6,null,Ice type Z-Move.,,,1
+Sucker Punch,16,Physical,User attacks first	 but only works if opponent is readying an attack.,70,100,5
+Sunny Day,2,Status,Makes it sunny for 5 turns.,,,5
+Sunsteel Strike,17,Physical,Ignores the target's ability.,100,100,5
+Super Fang,1,Physical,Always takes off half of the opponent's HP.,,90,10
+Supercell Slam,4,Physical,,100,95,15
+Superpower,7,Physical,Lowers user's Attack and Defense.,120,100,5
+Supersonic,1,Status,Confuses opponent.,,55,20
+Supersonic Skystrike,10,null,Flying type Z-Move.,,,1
+Surf,3,Special,Hits all adjacent Pokémon.,90,100,15
+Surging Strikes,3,Physical,Always results in a critical hit and ignores stat changes.,25,100,5
+Swagger,1,Status,Confuses opponent	 but sharply raises its Attack.,,85,15
+Swallow,1,Status,The more times the user has performed Stockpile	 the more HP is recovered.,,,10
+Sweet Kiss,18,Status,Confuses opponent.,,75,10
+Sweet Scent,1,Status,Lowers opponent's Evasiveness.,,100,20
+Swift,1,Special,Ignores Accuracy and Evasiveness.,60,-1,20
+Switcheroo,16,Status,Swaps held items with the opponent.,,100,10
+Swords Dance,1,Status,Sharply raises user's Attack.,,,20
+Synchronoise,11,Special,Hits any Pokémon that shares a type with the user.,120,100,10
+Synthesis,5,Status,User recovers HP. Amount varies with the weather.,,,5
+Syrup Bomb,5,Special,Lowers opponent's Speed each turn for 3 turns.,60,85,10
+Tachyon Cutter,17,Special,Guaranteed to hit twice in a row.,50,-1,10
+Tackle,1,Physical,,40,100,35
+Tail Glow,12,Status,Drastically raises user's Special Attack.,,,20
+Tail Slap,1,Physical,Hits 2-5 times in one turn.,25,85,10
+Tail Whip,1,Status,Lowers opponent's Defense.,,100,30
+Tailwind,10,Status,Doubles Speed for 4 turns.,,,15
+Take Down,1,Physical,User receives recoil damage.,90,85,20
+Take Heart,11,Status,Heals user's status conditions and raises its stats.,,,10
+Tar Shot,13,Status,Lowers the opponent's Speed and makes them weaker to Fire-type moves.,,100,15
+Taunt,16,Status,Opponent can only use moves that attack.,,100,20
+Tearful Look,1,Status,The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.,,,20
+Teatime,1,Status,Forces all Pokémon on the field to eat their berries.,,,10
+Techno Blast,1,Special,Type depends on the Drive being held.,120,100,5
+Tectonic Rage,9,null,Ground type Z-Move.,,,1
+Teeter Dance,1,Status,Confuses all Pokémon.,,100,20
+Telekinesis,11,Status,Ignores opponent's Evasiveness for three turns	 add Ground immunity.,,,15
+Teleport,11,Status,Allows user to flee wild battles; also warps player to last PokéCenter.,,,20
+Temper Flare,2,Physical,,75,100,10
+Tera Blast,1,Special,Changes type when the user has Terastallized.,80,100,10
+Tera Starstorm,1,Special,,120,100,5
+Terrain Pulse,1,Special,Type and power change depending on the Terrain in effect.,50,100,10
+Thief,16,Physical,Also steals opponent's held item.,60,100,25
+Thousand Arrows,9,Physical,Makes Flying-type Pokémon vulnerable to Ground moves.,90,100,10
+Thousand Waves,9,Physical,Opponent cannot flee or switch.,90,100,10
+Thrash,1,Physical,User attacks for 2-3 turns but then becomes confused.,120,100,10
+Throat Chop,16,Physical,Prevents use of sound moves for two turns.,80,100,15
+Thunder,4,Special,May paralyze opponent.,110,70,10
+Thunder Cage,4,Special,Deals damage and traps opponent	 damaging them for 4-5 turns.,80,90,15
+Thunder Fang,4,Physical,May cause flinching and/or paralyze opponent.,65,95,15
+Thunder Punch,4,Physical,May paralyze opponent.,75,100,15
+Thunder Shock,4,Special,May paralyze opponent.,40,100,30
+Thunder Wave,4,Status,Paralyzes opponent.,,90,20
+Thunderbolt,4,Special,May paralyze opponent.,90,100,15
+Thunderclap,4,Special,Strikes before a target's move.,70,100,5
+Thunderous Kick,7,Physical,Lowers opponent's Defense.,90,100,10
+Tickle,1,Status,Lowers opponent's Attack and Defense.,,100,20
+Tidy Up,1,Status,Removes the effects of entry hazards and Substitute	 and boosts user’s Attack and Speed.,,,10
+Topsy-Turvy,16,Status,Reverses stat changes of opponent.,,,20
+Torch Song,2,Special,Raises user's Special Attack.,80,100,10
+Torment,16,Status,Opponent cannot use the same move in a row.,,100,15
+Toxic,8,Status,Badly poisons opponent.,,90,10
+Toxic Spikes,8,Status,Poisons opponents switching into battle.,,,20
+Toxic Thread,8,Status,Poisons opponent and lowers its Speed.,,100,20
+Trailblaze,5,Physical,Raises user's Speed.,50,100,20
+Transform,1,Status,User takes on the form and attacks of the opponent.,,,10
+Tri Attack,1,Special,May paralyze	 burn or freeze opponent.,80,100,10
+Trick,11,Status,Swaps held items with the opponent.,,100,10
+Trick Room,11,Status,Slower Pokémon move first in the turn for 5 turns.,,,5
+Trick-or-Treat,14,Status,Adds Ghost type to opponent.,,100,20
+Triple Arrows,7,Physical,High critical hit ratio. May lower opponent's Defense or cause them to flinch.,90,100,10
+Triple Axel,6,Physical,Attacks thrice with more power each time.,20,90,10
+Triple Dive,3,Physical,Hits 3 times in a row.,30,95,10
+Triple Kick,7,Physical,Hits thrice in one turn at increasing power.,10,90,10
+Trop Kick,5,Physical,Lowers opponent's Attack.,70,100,15
+Trump Card,1,Special,The lower the PP	 the higher the power.,,-1,5
+Twin Beam,11,Special,Hits twice in one turn.,40,100,10
+Twineedle,12,Physical,Hits twice in one turn. May poison opponent.,25,100,20
+Twinkle Tackle,18,null,Fairy type Z-Move.,,,1
+Twister,15,Special,May cause flinching. Hits Pokémon using Fly/Bounce with double power.,40,100,20
+U-turn,12,Physical,User switches out immediately after attacking.,70,100,20
+Upper Hand,7,Physical,Strikes before a target's priority move.,65,100,15
+Uproar,1,Special,User attacks for 3 turns and prevents sleep.,90,100,10
+V-create,2,Physical,Lowers user's Defense	 Special Defense and Speed.,180,95,5
+Vacuum Wave,7,Special,User attacks first.,40,100,30
+Veevee Volley,1,Physical,Power increases when player's bond is stronger.,,-1,20
+Venom Drench,8,Status,Lowers poisoned opponent's Special Attack and Speed.,,100,20
+Venoshock,8,Special,Inflicts double damage if the target is poisoned.,65,100,10
+Victory Dance,7,Status,Raises Attack and Defense.,,,10
+Vine Whip,5,Physical,,45,100,25
+Vise Grip,1,Physical,,55,100,30
+Vital Throw,7,Physical,User attacks last	 but ignores Accuracy and Evasiveness.,70,-1,10
+Volt Switch,4,Special,User must switch out after attacking.,70,100,20
+Volt Tackle,4,Physical,User receives recoil damage. May paralyze opponent.,120,100,15
+Wake-Up Slap,7,Physical,Power doubles if opponent is asleep	 but wakes it up.,70,100,10
+Water Gun,3,Special,,40,100,25
+Water Pledge,3,Special,Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.,80,100,10
+Water Pulse,3,Special,May confuse opponent.,60,100,20
+Water Shuriken,3,Special,Hits 2-5 times in one turn.,15,100,20
+Water Sport,3,Status,Weakens the power of Fire-type moves.,,,15
+Water Spout,3,Special,The higher the user's HP	 the higher the damage caused.,150,100,5
+Waterfall,3,Physical,May cause flinching.,80,100,15
+Wave Crash,3,Physical,User receives recoil damage.,120,100,10
+Weather Ball,1,Special,Move's power and type changes with the weather.,50,100,10
+Whirlpool,3,Special,Traps opponent	 damaging them for 4-5 turns.,35,85,15
+Whirlwind,1,Status,In battles	 the opponent switches. In the wild	 the Pokémon runs.,,,20
+Wicked Blow,16,Physical,Always results in a critical hit and ignores stat changes.,75,100,5
+Wicked Torque,16,Physical,May put opponent to sleep.,80,100,10
+Wide Guard,13,Status,Protects the user's team from multi-target attacks.,,,10
+Wild Charge,4,Physical,User receives recoil damage.,90,100,15
+Wildbolt Storm,4,Special,May paralyze target.,100,80,10
+Will-O-Wisp,2,Status,Burns opponent.,,85,15
+Wing Attack,10,Physical,,60,100,35
+Wish,1,Status,The user recovers HP in the following turn.,,,10
+Withdraw,3,Status,Raises user's Defense.,,,40
+Wonder Room,11,Status,Swaps every Pokémon's Defense and Special Defense for 5 turns.,,,10
+Wood Hammer,5,Physical,User receives recoil damage.,120,100,15
+Work Up,1,Status,Raises user's Attack and Special Attack.,,,30
+Worry Seed,5,Status,Changes the opponent's Ability to Insomnia.,,100,10
+Wrap,1,Physical,Traps opponent	 damaging them for 4-5 turns.,15,90,20
+Wring Out,1,Special,The higher the opponent's HP	 the higher the damage.,,100,5
+X-Scissor,12,Physical,,80,100,15
+Yawn,1,Status,Puts opponent to sleep in the next turn.,,,10
+Zap Cannon,4,Special,Paralyzes opponent.,120,50,5
+Zen Headbutt,11,Physical,May cause flinching.,80,90,15
+Zing Zap,4,Physical,May cause flinching.,80,100,10
+Zippy Zap,4,Physical,Always results in a critical hit.,50,100,15

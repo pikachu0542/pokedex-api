@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS pokemon {
+CREATE TABLE IF NOT EXISTS pokemon (
     id SERIAL PRIMARY KEY,
     dex_no INT NOT NULL,
     name VARCHAR(25) NOT NULL,
@@ -15,4 +15,4 @@ CREATE TABLE IF NOT EXISTS pokemon {
     egg_cycles INT,
     male_percent DECIMAL,
     is_genderless BOOLEAN
-}
+);

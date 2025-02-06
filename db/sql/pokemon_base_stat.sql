@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS pokemon_base_stat {
+CREATE TABLE IF NOT EXISTS pokemon_base_stat (
     pokemon_id INT PRIMARY KEY REFERENCES pokemon(id),
     hp INT NOT NULL,
     attack INT NOT NULL,
@@ -7,4 +7,4 @@ CREATE TABLE IF NOT EXISTS pokemon_base_stat {
     special_defense INT NOT NULL,
     speed INT NOT NULL,
     total INT NOT NULL,
-};
+);
