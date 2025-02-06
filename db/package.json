@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "cheerio": "^1.0.0",
+    "csvjson": "^5.1.0",
     "headcrab": "^0.1.0",
     "node-scrapy": "^0.5.0"
   }
